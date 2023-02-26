@@ -1,7 +1,7 @@
 # Operating_System
 
 - - -
-
+<img src="https://user-images.githubusercontent.com/58673491/221412889-526ed335-8f13-4414-95f7-6fc85feca075.jpg">
 ## 🎯 학습 목표 🎯
 
 컴퓨터 시스템의 핵심인 운영체제의 근본 개념에 대하여 학습하고, 주요 운영체제의 구조를 살펴보며, 
