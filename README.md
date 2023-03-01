@@ -1,4 +1,4 @@
-# Operating_System
+# 🖥 운영체제 🖥
 
 <img src="https://user-images.githubusercontent.com/58673491/221412889-526ed335-8f13-4414-95f7-6fc85feca075.jpg">
 
@@ -15,7 +15,7 @@
 
 
 ### Ch. 1 - 운영체제 구조 
-
+* [운영체제 개요 (Introduction of Operating System)](https://kangdy25.tistory.com/119)
 ### Ch. 2 - 프로세스
 
 ### Ch. 3 - 쓰레드
