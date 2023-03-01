@@ -1,4 +1,4 @@
-# 🖥 운영체제 🖥
+# 🖥 운영체제 (Operating System) 🖥
 
 <img src="https://user-images.githubusercontent.com/58673491/221412889-526ed335-8f13-4414-95f7-6fc85feca075.jpg">
 
