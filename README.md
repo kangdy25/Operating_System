@@ -18,6 +18,7 @@
 * [운영체제 개요 (Introduction of Operating System)](https://kangdy25.tistory.com/119)
 ### Ch. 2 - 프로세스
 * [프로세스 이해 (Process Concept)](https://kangdy25.tistory.com/120)
+* [프로세스 간 통신 (IPC: Inter-Process Communication)](https://kangdy25.tistory.com/121)
 ### Ch. 3 - 쓰레드
 
 ### CH. 4 - CPU 스케줄링
