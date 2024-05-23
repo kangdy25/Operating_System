@@ -13,22 +13,17 @@
 
 ## 📝 목차 (Index) 📝
 
-### Ch. 1 - 운영체제의 개념과 구조 
+### Part 1 - 운영체제의 개념과 구조 
+- [운영체제 개요 (Introduction of Operating System)](https://kangdy25.tistory.com/119)
+- [컴퓨터 성능 향상 (Improve Computer Performance)](https://kangdy25.tistory.com/205)
+### Part 2 - 프로세스 관리
+- [프로세스 (Process)](https://kangdy25.tistory.com/206)
+- [쓰레드 (Thread)](https://kangdy25.tistory.com/207)
+- [CPU 스케줄링 (CPU Scheduling)](https://kangdy25.tistory.com/208)
+- [프로세스 간 통신 (IPC: Inter Process Communication)](https://kangdy25.tistory.com/209)
+- [임계구역 (Critical Section)](https://kangdy25.tistory.com/210)
+### Part 3 - 메모리 관리
 
-### Ch. 2 - 프로세스
+### Part 4 - 저장장치 관리
 
-### Ch. 3 - 쓰레드
-
-### CH. 4 - CPU 스케줄링
-
-### CH. 5 - 동기화
-
-### CH. 6 - 데드락
-
-### CH. 7 - 메인 메모리
-
-### CH. 8 - 가상 메모리
-
-### CH. 9 - 메모리 관리
-
-### CH. 10 - 운영체제 보안
+### Part 5 - 분산 시스템
