@@ -22,6 +22,7 @@
 - [CPU 스케줄링 (CPU Scheduling)](https://kangdy25.tistory.com/208)
 - [프로세스 간 통신 (IPC: Inter Process Communication)](https://kangdy25.tistory.com/209)
 - [임계구역 (Critical Section)](https://kangdy25.tistory.com/210)
+- [교착 상태 (Deadlock)](https://kangdy25.tistory.com/211)
 ### Part 3 - 메모리 관리
 
 ### Part 4 - 저장장치 관리
